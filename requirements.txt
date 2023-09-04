@@ -1,0 +1,7 @@
+pytorch>=1.13.0
+osqp >= 0.6.2
+gurobipy>=10.0.2
+robustness
+advex-uar
+recoloradv
+pip install git+https://github.com/fra31/auto-attack
